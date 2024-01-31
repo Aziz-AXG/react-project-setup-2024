@@ -15,6 +15,10 @@ git clone https://github.com/AXG-coder/react-project-setup-2024.git
 ```
 
 ```
+cd react-project-setup-2024
+```
+
+```
 npm install -g npm-check-updates
 ```
 
